@@ -1,0 +1,1 @@
+this script checks the last recorded message and initiates sending from the last point. if a message with an id that goes in order has not arrived from the server, then a fake message is sent with the text about the loss of the message
